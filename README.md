@@ -7,3 +7,13 @@ Advanced, Deep dive and under the hood JavaScript and also ReactJS basic to adva
 ### 1. Execution Context
 
 ### 2. Call Stack
+
+##
+
+## Day2
+
+### 1. Lexical Environment
+
+### 2. Lexical Scope
+
+### 3. Scope Chain
