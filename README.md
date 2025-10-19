@@ -17,3 +17,11 @@ Advanced, Deep dive and under the hood JavaScript and also ReactJS basic to adva
 ### 2. Lexical Scope
 
 ### 3. Scope Chain
+
+##
+
+## Day3
+
+### 1. Reference vs Value
+
+### 2. Immutability
