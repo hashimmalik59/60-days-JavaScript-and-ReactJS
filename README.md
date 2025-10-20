@@ -25,3 +25,13 @@ Advanced, Deep dive and under the hood JavaScript and also ReactJS basic to adva
 ### 1. Reference vs Value
 
 ### 2. Immutability
+
+##
+
+## Day4
+
+### 1. Functional Programming
+
+### 2. Higher-order function
+
+### 3. forEach()
