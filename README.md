@@ -35,3 +35,13 @@ Advanced, Deep dive and under the hood JavaScript and also ReactJS basic to adva
 ### 2. Higher-order function
 
 ### 3. forEach()
+
+##
+
+## Day5
+
+### 1. filter()
+
+### 2. map()
+
+### 3. reduce()
