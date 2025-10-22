@@ -45,3 +45,11 @@ Advanced, Deep dive and under the hood JavaScript and also ReactJS basic to adva
 ### 2. map()
 
 ### 3. reduce()
+
+##
+
+## Day6
+
+### 1. Lexical Scope
+
+### 2. Closure
