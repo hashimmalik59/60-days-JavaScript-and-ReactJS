@@ -53,3 +53,11 @@ Advanced, Deep dive and under the hood JavaScript and also ReactJS basic to adva
 ### 1. Lexical Scope
 
 ### 2. Closure
+
+##
+
+## Day7
+
+### 1. Hoisting
+
+### 2. Temporal Dead Zone(TDZ)
